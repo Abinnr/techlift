@@ -287,7 +287,7 @@ const TimelineSection = ({ id }) => {
             <div className="w-1/4 mr-6">
               <div className="text-center">
                 <h2 className="text-lg font-bold mb-2 text-blue-900">
-                  February 21, 3:00pm - February 22, 3:00pm
+                  Feb 21, 3pm - Feb 22, 3pm
                 </h2>
                 <h3 className="text-base font-semibold text-blue-700">
                   Hackathon
