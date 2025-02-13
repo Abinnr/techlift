@@ -234,7 +234,7 @@ const TimelineSection = ({ id }) => {
                   Early Bird Registration closing
                 </h2>
                 <p className="text-sm text-blue-900">
-                  Early Bird Registration closes on this date
+                  Early Bird Registration closes on 16 February 2025
                 </p>
               </div>
             </div>
