@@ -69,7 +69,7 @@ const Timer = ({ targetDate }) => {
 };
 
 const HeroSection = ({ id }) => {
-  const targetDate = new Date("May 5, 2024 15:00:00");
+  const targetDate = new Date("February 22, 2025 15:00:00");
   
   console.log("Target Date:", targetDate.toString());
 
@@ -128,7 +128,7 @@ const AboutSection = ({ id }) => {
             <img
               src="/techlift.png"
               alt="TECHLIFT"
-              className="h-20 w-auto sm:h-24"
+              className="h-40 w-auto sm:h-48"
             />
           </div>
           <p className="text-lg mb-8">
@@ -483,7 +483,7 @@ const ContactSection = ({ id }) => {
                   Sooraj
                   </span>
                   <a
-                    href="https://wa.me/8075386183"
+                    href="https://wa.me/+918075386183"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -505,7 +505,7 @@ const ContactSection = ({ id }) => {
                     Shamil
                   </span>
                   <a
-                    href="https://wa.me/9074107075"
+                    href="https://wa.me/+919074107075"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -536,7 +536,7 @@ const ContactSection = ({ id }) => {
                   Abin N R
                   </span>
                   <a
-                    href="https://wa.me/9526179205"
+                    href="https://wa.me/+919526179205"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -558,7 +558,7 @@ const ContactSection = ({ id }) => {
                     Nitish Nayak
                   </span>
                   <a
-                    href="https://wa.me/8547038838"
+                    href="https://wa.me/+918547038838"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
