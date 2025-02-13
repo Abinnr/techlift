@@ -14,8 +14,10 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 z-50 w-full bg-black bg-opacity-50 backdrop-filter backdrop-blur-lg py-4 px-8 flex justify-between items-center">
       <div className="flex items-center space-x-4">
-        <img src="/techlift.png" alt="TECHLIFT" className="h-3 w-auto" />
+        <img src="/techlift.png" alt="TECHLIFT" className="h-10 w-auto sm:h-12" />
       </div>
+      
+
       <div className="hidden md:flex space-x-4 text-white font-bold">
         <button onClick={() => scrollToSection("hero")}>Home</button>
         <button onClick={() => scrollToSection("about")}>About</button>
