@@ -222,7 +222,7 @@ const TimelineSection = ({ id }) => {
           <div className="timeline-item flex py-6 border-b border-blue-200">
             <div className="w-1/4 mr-6">
               <div className="text-center">
-                <h2 className="text-lg font-bold mb-2 text-blue-900">February 18</h2>
+                <h2 className="text-lg font-bold mb-2 text-blue-900">February 16</h2>
                 <h3 className="text-base font-semibold text-blue-700">
                   Early Bird Registration closing
                 </h3>
