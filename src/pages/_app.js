@@ -132,7 +132,7 @@ const AboutSection = ({ id }) => {
             />
           </div>
           <p className="text-lg mb-8">
-          <b>TECHLIFT</b> is a premier 24-hour hackathon dedicated to empowering the elderly and disabled through technology-driven innovation. Hosted by Association of CSE and ECE LBS Collage of Engineering Kasaragod Teranis’25 & Eximius’25 , this event unites students, developers, designers, engineers, and industry experts to tackle real-world challenges faced by physically disabled and elderly individuals.
+          <b>TECHLIFT</b> is a premier 24-hour hackathon dedicated to empowering the elderly and disabled through technology-driven innovation. Hosted by Association of B.Tech in CSE Department and Association of B.tech in ECE Department of LBS Collage of Engineering Kasaragod as part of Teranis’25 & Eximius’25 , this event unites students, developers, designers, engineers, and industry experts to tackle real-world challenges faced by physically disabled and elderly individuals.
 
 Participants will have the opportunity to ideate, innovate, and develop impactful solutions that enhance accessibility, independence, and quality of life. Join us in shaping a future where technology truly empowers everyone! 
           </p>
@@ -287,7 +287,7 @@ const TimelineSection = ({ id }) => {
             <div className="w-1/4 mr-6">
               <div className="text-center">
                 <h2 className="text-lg font-bold mb-2 text-blue-900">
-                  February 21, 3:00pm - February 22, 3:00pm
+                  Feb 21, 3pm - Feb 22, 3pm
                 </h2>
                 <h3 className="text-base font-semibold text-blue-700">
                   Hackathon
