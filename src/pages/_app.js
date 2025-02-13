@@ -80,7 +80,7 @@ const HeroSection = ({ id }) => {
     >
       <ParticlesComponent />
       <div className="mt-10 absolute w-full flex items-center justify-between px-4 sm:px-8 lg:px-16 top-10 z-10">
-        <img src="/logo.png" alt="MediHack" className="h-24 sm:h-48" />
+        <img src="/logo.png" alt="Eximius" className="h-24 sm:h-48" />
         <img src="/Teranis.png" alt="Teranis" className="h-16 sm:h-20" />
       </div>
       <div className="relative z-20 p-4 text-white text-center">
@@ -126,8 +126,8 @@ const AboutSection = ({ id }) => {
           </h2> */}
           <div className="flex justify-center mb-10">
             <img
-              src="/Medihack.png"
-              alt="Medihack"
+              src="/techlift.png"
+              alt="TECHLIFT"
               className="h-10 w-auto sm:h-12"
             />
           </div>
