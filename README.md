@@ -1,2 +1,2 @@
-# Medihack
-A website for MediHack Hackathon - 24 Hour National level Hackathon organized by IEEE CS SBC in collaboration with TERANIS'24
+# TECHLIFT
+A website for TECHLIFT Hackathon - 24 Hour National level Hackathon organized by teranis'25 with eximius'25
