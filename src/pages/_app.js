@@ -400,7 +400,7 @@ const ProblemStatements = ({ id }) => {
 
 const problemStatements = [
   {
-    title: "AI-Powered Elderly Companion Chatbot",
+    /*title: "AI-Powered Elderly Companion Chatbot",
     description:
       "Develop a chatbot with voice and text interaction, offering emotional support, medication reminders, and cognitive exercises for elderly individuals.",
   },
@@ -453,7 +453,7 @@ const problemStatements = [
     title: "AI-Based Hearing Aid with Noise Cancellation",
     description:
       "Build an intelligent hearing aid that enhances speech clarity by filtering background noise using AI, improving communication for individuals with hearing impairments.",
-  },
+  */},
 ];
 
 
