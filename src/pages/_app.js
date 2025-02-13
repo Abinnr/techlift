@@ -128,7 +128,7 @@ const AboutSection = ({ id }) => {
             <img
               src="/techlift.png"
               alt="TECHLIFT"
-              className="h-10 w-auto sm:h-12"
+              className="h-20 w-auto sm:h-24"
             />
           </div>
           <p className="text-lg mb-8">
@@ -483,7 +483,7 @@ const ContactSection = ({ id }) => {
                   Sooraj
                   </span>
                   <a
-                    href="https://wa.me/919605980433"
+                    href="https://wa.me/8075386183"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -497,7 +497,7 @@ const ContactSection = ({ id }) => {
               <div className="coordinator-card bg-white rounded-lg shadow-md p-4 mb-4 flex items-center">
                 <img
                   src="shamil.jpeg"
-                  alt="Abhiram B K"
+                  alt="shamil shameer"
                   className="rounded-full h-8 w-8 mr-3"
                 />
                 <div className="coordinator-content">
@@ -505,7 +505,7 @@ const ContactSection = ({ id }) => {
                     Shamil
                   </span>
                   <a
-                    href="https://wa.me/919400468965"
+                    href="https://wa.me/9074107075"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -536,7 +536,7 @@ const ContactSection = ({ id }) => {
                   Abin N R
                   </span>
                   <a
-                    href="https://wa.me/919526831786"
+                    href="https://wa.me/9526179205"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -558,7 +558,7 @@ const ContactSection = ({ id }) => {
                     Nitish Nayak
                   </span>
                   <a
-                    href="https://wa.me/917907716359"
+                    href="https://wa.me/8547038838"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block whitespace-nowrap text-black font-semibold"
@@ -665,7 +665,7 @@ const faqs = [
     question:
       "What is the participation policy regarding teams? Is participation exclusive to teams, and if so, what is the maximum team size?",
     answer:
-      "Yes, participation is exclusive to teams, with a maximum team size of 4 members.",
+      "Yes, participation is exclusive to teams, with a maximum team size of 5 members.",
   },
   {
     question: "As a beginner, is there any value in registering?",
