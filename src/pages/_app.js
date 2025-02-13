@@ -132,7 +132,7 @@ const AboutSection = ({ id }) => {
             />
           </div>
           <p className="text-lg mb-8">
-          <b>TECHLIFT</b> is a premier 24-hour hackathon dedicated to empowering the elderly and disabled through technology-driven innovation. Hosted by the IEEE Computer Society Student Branch Chapter LBSCEK in collaboration with Teranis’25 & Eximus’25, this event unites students, developers, designers, engineers, and industry experts to tackle real-world challenges faced by physically disabled and elderly individuals.
+          <b>TECHLIFT</b> is a premier 24-hour hackathon dedicated to empowering the elderly and disabled through technology-driven innovation. Hosted by Association of CSE and ECE LBS Collage of Engineering Kasaragod Teranis’25 & Eximius’25 , this event unites students, developers, designers, engineers, and industry experts to tackle real-world challenges faced by physically disabled and elderly individuals.
 
 Participants will have the opportunity to ideate, innovate, and develop impactful solutions that enhance accessibility, independence, and quality of life. Join us in shaping a future where technology truly empowers everyone! 
           </p>
@@ -156,7 +156,7 @@ Participants will have the opportunity to ideate, innovate, and develop impactfu
             </div>
             <ul className="text-sm font-bold text-white list-disc pl-4">
               <li>24 Hour overnight hackathon</li>
-              <li>A Team of maximum 4 members can participate</li>
+              <li>A Team of maximum 5 members can participate</li>
               <li>
                 Problem statements will be under the domain Empowerment of Elderly and Disabled
               </li>
@@ -222,7 +222,7 @@ const TimelineSection = ({ id }) => {
           <div className="timeline-item flex py-6 border-b border-blue-200">
             <div className="w-1/4 mr-6">
               <div className="text-center">
-                <h2 className="text-lg font-bold mb-2 text-blue-900">February 18</h2>
+                <h2 className="text-lg font-bold mb-2 text-blue-900">February 16</h2>
                 <h3 className="text-base font-semibold text-blue-700">
                   Early Bird Registration closing
                 </h3>
@@ -234,7 +234,7 @@ const TimelineSection = ({ id }) => {
                   Early Bird Registration closing
                 </h2>
                 <p className="text-sm text-blue-900">
-                  Early Bird Registration closes on this date
+                  Early Bird Registration closes on 16 February 2025
                 </p>
               </div>
             </div>
