@@ -98,7 +98,7 @@ const HeroSection = ({ id }) => {
       <Timer targetDate={targetDate} />
       <div className="absolute bottom-10 flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
         <a
-          href=""// brochure link
+          href="https://drive.google.com/uc?export=download&id=1XT6D-yt-5tuxMVSpq47Iae_QUISHxVgy"// brochure link
           className="rounded-md px-8 py-4 bg-green-700 text-white font-semibold shadow-lg hover:bg-green-800 transition duration-300 ease-in-out mt-4 sm:mt-0 text-center"
           download
         >
