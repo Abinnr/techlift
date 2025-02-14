@@ -52,7 +52,7 @@ const Timer = ({ targetDate }) => {
 
   return (
     <div className="text-white text-center rounded-md p-2">
-      <div className="text-lg font-semibold mb-2">The hackathon ends in</div>
+      <div className="text-lg font-semibold mb-2">The hackathon starts in</div>
       <div className="flex justify-center space-x-4 mt-2">
         {Object.entries(timeLeft).map(([unit, value]) => (
           <div className="text-center" key={unit}>
@@ -69,7 +69,7 @@ const Timer = ({ targetDate }) => {
 };
 
 const HeroSection = ({ id }) => {
-  const targetDate = new Date("February 22, 2025 15:00:00");
+  const targetDate = new Date("February 21, 2025 15:00:00");
   
   console.log("Target Date:", targetDate.toString());
 
@@ -400,7 +400,7 @@ const ProblemStatements = ({ id }) => {
 
 const problemStatements = [
   {
-    title: "AI-Powered Elderly Companion Chatbot",
+    /*title: "AI-Powered Elderly Companion Chatbot",
     description:
       "Develop a chatbot with voice and text interaction, offering emotional support, medication reminders, and cognitive exercises for elderly individuals.",
   },
@@ -453,7 +453,7 @@ const problemStatements = [
     title: "AI-Based Hearing Aid with Noise Cancellation",
     description:
       "Build an intelligent hearing aid that enhances speech clarity by filtering background noise using AI, improving communication for individuals with hearing impairments.",
-  },
+  */},
 ];
 
 
