@@ -399,7 +399,7 @@ const ProblemStatements = ({ id }) => {
 }
 
 const problemStatements = [
-  { title: "Problem statements will release on February 18 2025"
+  { title: "Problem statements will release on 18 February 2025"
     /*title: "AI-Powered Elderly Companion Chatbot",
     description:
       "Develop a chatbot with voice and text interaction, offering emotional support, medication reminders, and cognitive exercises for elderly individuals.",
